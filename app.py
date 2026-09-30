@@ -1,2 +1,2 @@
 jmeno = input("Jak se jmenuješ? ")
-print("Ahoj, " + jmeno + "! Rád tě poznávám.")
+print("Čau, " + jmeno + "! Rád tě poznávám.")
